@@ -6,7 +6,7 @@ Talon Voice configuration for playing the game Duskers
 
 This repository is intended for use with [TalonVoice](https://talonvoice.com/)
 
-Clone this repository into your "~/talon/user" folder.  On Windows, this is typically located in `C:\Users\<user_name>\AppData\Roaming\talon\user`.  An easy way to find the "~/talon" folder is to right-click on the Talon Voice icon on the Windows Taskbar and select `Scripting >` then `Open ~/talon`
+Clone this repository into your "\~/talon/user" folder.  On Windows, this is typically located in `C:\Users\<user_name>\AppData\Roaming\talon\user`.  An easy way to find the "\~/talon" folder is to right-click on the Talon Voice icon on the Windows Taskbar and select `Scripting >` then `Open \~/talon`
 
 ## Voice commands
 
