@@ -10,11 +10,11 @@ Clone this repository into your "\~/talon/user" folder.  On Windows, this is typ
 
 ## Voice commands
 
-see duskers_game.talon
+see [duskers_game.talon](https://github.com/ghouston/duskers_game_talon/blob/main/duskers_game.talon)
 
 ## Status
 
-Duskers is well suited for TalonVoice since most of the game's interaction is controlled by short-cut keys and console commands.  The menus and console commands are now available as voice commands through Talon Voice.
+Duskers is well suited for Talon Voice since most of the game's interaction is controlled by short-cut keys and console commands.  The menus and console commands are now available as voice commands through Talon Voice.
 
 Mouse controls are not covered by this repository at this time.  Most of the game can be played without needing to use the mouse.  However occasional mouse usage is sometimes needed to percisely position the in-game drones.  Its assumed the user already has other solutions for controlling the mouse.  Some suggestions are:
   * Talon Voice's built-in Eye Tracking - requires additional hardware
